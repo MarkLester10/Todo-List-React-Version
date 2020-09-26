@@ -1,3 +1,7 @@
+# Todo-List-App
+This is the React Js version of my vanilla js Todo List App. Feautures: Todos saved to local storage, filter todos, add and delete todos.
+<p align="center"><img src="Capture.PNG" width="900" height="400"></p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
